@@ -1,0 +1,1 @@
+Las extensiones de Jupyter y Python deben estar instaladas en VSCode para usar el archivo.
